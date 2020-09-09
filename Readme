@@ -1,0 +1,29 @@
+Trading bot using binance api. 
+
+create a login file and fllow the naming convenctons.
+
+THIS README WILL BE UPDATED!! 
+
+-------------------
+Crypto bot that sells before the highest asker sells 
+or buys before a high volume buyer buys. 
+
+Still in the works and does nees some find tuning. This was an enormous project for me at the time and hopefully it helps if crypto trading is your thing. 
+For me personally, I didn't see much money in it after fees but if you catch a good trend, this method is a wonderful way to trade without requireing a trading platform...
+
+------------------Flash Buy & Flash sell-------------
+
+These are what you'd use to quickly sell or buy
+
+-----------------track sell ------------------
+
+something I made to track a previously bought coin to sell it. 
+This reads a file that the main file writes to!!!
+
+**********REMEMBER THIS THING IS IN ITS EXTREMELY EARLY STAGES THOUGH IT MIGHT HELP YOU OUT IF CRYPTO TRADING IS YOUR THING ************** I WARNED YOU
+
+Though definately check out the idea with the bidders helps with low volume trades. Good thing to have on a bot so you don't get sweeped away when a 'Whale' sells or buys.
+
+
+
+      
